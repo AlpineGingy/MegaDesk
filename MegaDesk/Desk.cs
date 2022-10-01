@@ -23,7 +23,7 @@ namespace MegaDesk
         public const short MIN_WIDTH = 24;
         public const short MAX_WIDTH = 96;
         public const short MIN_DEPTH = 12;
-        public const short MAX_DEPTH = 14;
+        public const short MAX_DEPTH = 48;
         public const short MIN_DESK_DRAWERS = 0;
         public const short MAX_DESK_DRAWERS = 7;
         public float Width { get; set; }
